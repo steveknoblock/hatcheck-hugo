@@ -1,0 +1,11 @@
+# Build output
+hatcheck-hugo
+hatcheck-hugo.exe
+
+# Rendered output and exports
+/content/
+*.tar.gz
+
+# VS Code
+.vscode/
+*.code-workspace
